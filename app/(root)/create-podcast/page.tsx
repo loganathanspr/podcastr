@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const CreatePodcast = () => {
   return (
-    <p className='text-white-1'>CreatePodcast</p>
-  )
-}
+    <div>
+      <h1 className="text-20 font-bold text-white-1">Create Podcast</h1>
+    </div>
+  );
+};
 
-export default CreatePodcast
+export default CreatePodcast;
